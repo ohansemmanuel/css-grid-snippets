@@ -2,7 +2,7 @@
     "name": "css-grid-snippets",
     "displayName": "CSS Grid Snippets",
     "description": "Code snippets for the CSS Grid layout",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "ohansemmanuel",
     "engines": {
         "vscode": "^1.8.0"

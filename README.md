@@ -33,9 +33,17 @@ gac | grid-auto-columns  - - -
 
  ## Installation 
 1. Install Visual Studio Code 1.8.0 or higher
-2. Launch Code
-3. From the command palette Ctrl-Shift-P (Windows, Linux) or Cmd-Shift-P (OSX)
-4. Select Install Extension
+2. Launch VSCode 
+3. Open the extensions tab
+  
+  ![Open the extensions tab](http://res.cloudinary.com/blushcow/image/upload/v1511374593/hlp1-01_cbfas7.png)
+    
+  
+4. Search for "CSS Grid snippets"
+  
+  ![Search for CSS Grid snippets](http://res.cloudinary.com/blushcow/image/upload/v1511374594/hlp2-01_pb8cid.png)
+
+
 5. Choose the extension
 6. Reload Visual Studio Code
 
