@@ -2,7 +2,7 @@
 
 Simple extension that adds CSS Grid snippets to VS Code  👏 👏
 
-![snippets gif](http://res.cloudinary.com/blushcow/image/upload/v1511371630/snippets_bezfsd.gif) 
+![snippets gif](https://res.cloudinary.com/blushcow/image/upload/v1511371630/snippets_bezfsd.gif) 
 
 
 ## Usage
