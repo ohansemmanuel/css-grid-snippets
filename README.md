@@ -2,6 +2,9 @@
 
 Simple extension that adds CSS Grid snippets to VS Code  👏 👏
 
+![snippets gif](http://res.cloudinary.com/blushcow/image/upload/v1511371630/snippets_bezfsd.gif) 
+
+
 ## Usage
 
 Snippet | Purpose 
@@ -29,7 +32,7 @@ gac | grid-auto-columns  - - -
 
 
  ## Installation 
-1. Install Visual Studio Code 1.18.0 or higher
+1. Install Visual Studio Code 1.8.0 or higher
 2. Launch Code
 3. From the command palette Ctrl-Shift-P (Windows, Linux) or Cmd-Shift-P (OSX)
 4. Select Install Extension

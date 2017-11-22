@@ -1,25 +1,27 @@
 {
-  "name": "css-grid-snippets",
-  "displayName": "CSS Grid Snippets",
-  "description": "Code snippets for the CSS Grid layout",
-  "version": "0.0.2",
-  "publisher": "ohansemmanuel",
-  "engines": {
-    "vscode": "^1.8.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ohansemmanuel/css-grid-snippets.git"
-  },
-  "categories": ["Snippets"],
-  "contributes": {
-    "snippets": [
-      {
-        "language": "css",
-        "path": "./snippets/snippets.json"
-      }
-    ]
-  },
-  "icon": "logo.png",
-  "galleryBanner.color": "#2C8FFE"
+    "name": "css-grid-snippets",
+    "displayName": "CSS Grid Snippets",
+    "description": "Code snippets for the CSS Grid layout",
+    "version": "0.0.3",
+    "publisher": "ohansemmanuel",
+    "engines": {
+        "vscode": "^1.8.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ohansemmanuel/css-grid-snippets.git"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "css",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    },
+    "icon": "logo.png",
+    "galleryBanner.color": "#2C8FFE"
 }
