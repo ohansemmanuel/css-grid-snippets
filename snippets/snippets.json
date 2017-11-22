@@ -1,12 +1,12 @@
 {
   "display grid": {
     "prefix": "dg",
-    "body": "display: grid",
+    "body": "display: grid;",
     "description": "Set up a grid container"
   },
   "display inline grid": {
     "prefix": "dig",
-    "body": "display: inline-grid",
+    "body": "display: inline-grid;",
     "description": "Set up an inline grid container"
   },
   "grid template column": {

@@ -12,8 +12,10 @@
     "snippets": [
       {
         "language": "css",
-        "path": "./snippets/css.json"
+        "path": "./snippets/snippets.json"
       }
     ]
-  }
+  },
+  "icon": "logo.png",
+  "galleryBanner.color": "#2C8FFE"
 }
