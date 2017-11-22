@@ -1,0 +1,19 @@
+{
+  "name": "css-grid-snippets",
+  "displayName": "CSS Grid Snippets",
+  "description": "Code snippets for the CSS Grid layout",
+  "version": "0.0.1",
+  "publisher": "ohansemmanuel",
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "categories": ["Snippets"],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "css",
+        "path": "./snippets/css.json"
+      }
+    ]
+  }
+}
