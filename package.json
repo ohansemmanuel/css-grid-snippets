@@ -2,10 +2,14 @@
   "name": "css-grid-snippets",
   "displayName": "CSS Grid Snippets",
   "description": "Code snippets for the CSS Grid layout",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "ohansemmanuel",
   "engines": {
     "vscode": "^1.18.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ohansemmanuel/css-grid-snippets.git"
   },
   "categories": ["Snippets"],
   "contributes": {
