@@ -1,1 +1,92 @@
-{}
+{
+  "display grid": {
+    "prefix": "dg",
+    "body": "display: grid",
+    "description": "Set up a grid container"
+  },
+  "display inline grid": {
+    "prefix": "dig",
+    "body": "display: inline-grid",
+    "description": "Set up an inline grid container"
+  },
+  "grid template column": {
+    "prefix": "gtc",
+    "body": "grid-template-columns: ",
+    "description": "Set up space-separated column track list"
+  },
+  "grid template row": {
+    "prefix": "gtr",
+    "body": "grid-template-rows: ",
+    "description": "Set up space-separated row track list"
+  },
+  "grid template areas": {
+    "prefix": "gta",
+    "body": "grid-template-areas: ",
+    "description": "Set up named areas for a grid"
+  },
+  "grid gap": {
+    "prefix": "gg",
+    "body": "grid-gap: ",
+    "description": "Specify the size of gaps between rows and columns"
+  },
+  "grid row gap": {
+    "prefix": "grg",
+    "body": "grid-row-gap: ",
+    "description": "Specify the size of the gap between rows"
+  },
+  "grid column gap": {
+    "prefix": "gcp",
+    "body": "grid-column-gap: ",
+    "description": "Specify the size of the gap between columns"
+  },
+  "grid row start": {
+    "prefix": "grs",
+    "body": "grid-row-start: ",
+    "description": "Specify up the start row of a line based placement"
+  },
+  "grid row end": {
+    "prefix": "gre",
+    "body": "grid-row-end: ",
+    "description": "Specify the end row of a line based placement"
+  },
+  "grid row": {
+    "prefix": "gr",
+    "body": "grid-row: ",
+    "description": "Specify the start and end rows of a line based placement"
+  },
+  "grid column start": {
+    "prefix": "gcs",
+    "body": "grid-column-start: ",
+    "description": "Set up the start column of a line based placement"
+  },
+  "grid column end": {
+    "prefix": "gce",
+    "body": "grid-column-end: ",
+    "description": "Set up the end column of a line based placement"
+  },
+  "grid column": {
+    "prefix": "gc",
+    "body": "grid-column: ",
+    "description": "Set up the start and end columns of a line based placement"
+  },
+  "grid area": {
+    "prefix": "ga",
+    "body": "grid-area: ",
+    "description": "Place items into a named area"
+  },
+  "grid auto flow": {
+    "prefix": "gaf",
+    "body": "grid-auto-flow: ",
+    "description": "Control the auto placement algorithm"
+  },
+  "grid auto rows": {
+    "prefix": "gar",
+    "body": "grid-auto-rows: ",
+    "description": "specify the size of implicitly-created row tracks."
+  },
+  "grid auto columns": {
+    "prefix": "gac",
+    "body": "grid-auto-columns: ",
+    "description": "specify the size of implicitly-created column tracks."
+  }
+}
