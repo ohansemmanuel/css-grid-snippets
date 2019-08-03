@@ -4,7 +4,7 @@
 ![Ratings](https://img.shields.io/visual-studio-marketplace/stars/ohansemmanuel.css-grid-snippets)
 ![Version](https://img.shields.io/visual-studio-marketplace/v/ohansemmanuel.css-grid-snippets)
 
-Super charge your CSS Grid usage with VS Code snippets  👏 👏
+Supercharge your CSS Grid usage with VS Code snippets  👏 👏
 
 
 
