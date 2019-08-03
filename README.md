@@ -1,6 +1,12 @@
-# css-grid-snippets README
+# css-grid-snippets
 
-Simple extension that adds CSS Grid snippets to VS Code  👏 👏
+![Downloads](https://img.shields.io/visual-studio-marketplace/i/ohansemmanuel.css-grid-snippets)
+![Ratings](https://img.shields.io/visual-studio-marketplace/stars/ohansemmanuel.css-grid-snippets)
+![Version](https://img.shields.io/visual-studio-marketplace/v/ohansemmanuel.css-grid-snippets)
+
+Super charge your CSS Grid usage with VS Code snippets  👏 👏
+
+
 
 ![snippets gif](https://res.cloudinary.com/blushcow/image/upload/v1511371630/snippets_bezfsd.gif) 
 
